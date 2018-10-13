@@ -1,0 +1,8 @@
+[package]
+name = "excercises"
+version = "0.1.0"
+authors = ["corodiak <jann-niklas@familiezimmermann.de>"]
+
+[dependencies]
+rand = "0.3.14"
+
